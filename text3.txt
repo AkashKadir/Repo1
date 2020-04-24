@@ -1,0 +1,13 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 6286-847D
+
+ Directory of D:\mygit
+
+24-04-2020  12:32    <DIR>          .
+24-04-2020  12:32    <DIR>          ..
+23-04-2020  20:33               371 index.html
+23-04-2020  20:36                 8 text1.txt
+24-04-2020  12:16               418 text2.txt
+24-04-2020  12:32                 0 text3.txt
+               4 File(s)            797 bytes
+               2 Dir(s)  10,828,312,576 bytes free
